@@ -8,7 +8,7 @@ int main()
 	int state=0,i=0;
 	char bits[256];
 	printf ("Digite a sequencia binaria:");
-	scanf("%s",&bits);
+	scanf("%s",bits);
 	fflush(stdin);
 	for( i;bits[i]!='\0';i++)
 	{
