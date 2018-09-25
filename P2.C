@@ -1,3 +1,6 @@
+/*p2.c*/
+/*PedroPauloRodriguesCampisi*/
+/*11811ETE019*/
 #include <stdio.h>
 #include <math.h>
  char dicionario[64];
