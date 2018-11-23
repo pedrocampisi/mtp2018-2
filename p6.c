@@ -1,6 +1,6 @@
 /*P6.c*/
-/*Henrique*/
-/*11811ETE016*/
+/*PedroPaulo*/
+/*11811ETE019*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
