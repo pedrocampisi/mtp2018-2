@@ -11,7 +11,7 @@ struct LCG { Bytes8 a, c, m, rand_max, atual; }
 LCG;
 void semente(LCG * r, Bytes8 seed) {
 // constantes do POSIX [de]rand48, glibc [de]rand48[_r]
-// ULL transforma a constante ’int’ em ’unsigned long long int’
+// ULL transforma a constante â€™intâ€™ em â€™unsigned long long intâ€™
 r->a = 0x5DEECE66DULL;
 r->c = 11ULL;
 r->m = (1ULL << 48);
